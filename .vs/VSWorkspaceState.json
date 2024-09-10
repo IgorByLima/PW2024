@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\EtecWebAPI",
+    "\\src\\EtecWebAPI\\Configurations",
+    "\\src\\EtecWebAPI\\Context",
+    "\\src\\EtecWebAPI\\Domain",
+    "\\src\\EtecWebAPI\\Enumerators",
+    "\\src\\EtecWebAPI\\Migrations",
+    "\\src\\EtecWebAPI\\obj",
+    "\\src\\EtecWebAPI\\Properties"
+  ],
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,347 @@
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.exe
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.deps.json
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.runtimeconfig.json
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.dll
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.pdb
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.EtecWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EtecWebAPI.props
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EtecWebAPI.props
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EtecWebAPI.props
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\scopedcss\bundle\EtecWebAPI.styles.css
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.dll
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\refint\EtecWebAPI.dll
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.pdb
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Etec\src\EtecWebAPI\obj\Debug\net8.0\ref\EtecWebAPI.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.exe
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.deps.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.runtimeconfig.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.pdb
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.EtecWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EtecWebAPI.props
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EtecWebAPI.props
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EtecWebAPI.props
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\scopedcss\bundle\EtecWebAPI.styles.css
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\refint\EtecWebAPI.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.pdb
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA\src\EtecWebAPI\obj\Debug\net8.0\ref\EtecWebAPI.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.exe
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.deps.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.runtimeconfig.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.pdb
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.EtecWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EtecWebAPI.props
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EtecWebAPI.props
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EtecWebAPI.props
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\scopedcss\bundle\EtecWebAPI.styles.css
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\refint\EtecWebAPI.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.pdb
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_01_08_2024 - Copia\Etec_2Sem2024_TurmaA_01_08_2024\src\EtecWebAPI\obj\Debug\net8.0\ref\EtecWebAPI.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.exe
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.deps.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.runtimeconfig.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.pdb
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.EtecWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EtecWebAPI.props
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EtecWebAPI.props
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EtecWebAPI.props
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\scopedcss\bundle\EtecWebAPI.styles.css
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\refint\EtecWebAPI.dll
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.pdb
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Etec_2Sem2024_TurmaA_15_08_2024\src\EtecWebAPI\obj\Debug\net8.0\ref\EtecWebAPI.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.exe
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.deps.json
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.runtimeconfig.json
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.pdb
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.AssemblyReference.cache
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.AssemblyInfoInputs.cache
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.AssemblyInfo.cs
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.EtecWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EtecWebAPI.props
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EtecWebAPI.props
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EtecWebAPI.props
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\scopedcss\bundle\EtecWebAPI.styles.css
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.Up2Date
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\refint\EtecWebAPI.dll
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.pdb
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.genruntimeconfig.cache
+C:\Users\Igor Lima\OneDrive\Área de Trabalho\Etec_2Sem2024_TurmaA_22_08_2024\src\EtecWebAPI\obj\Debug\net8.0\ref\EtecWebAPI.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.exe
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.deps.json
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.runtimeconfig.json
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\EtecWebAPI.pdb
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\MySqlConnector.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.AssemblyReference.cache
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.AssemblyInfoInputs.cache
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.AssemblyInfo.cs
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.CoreCompileInputs.cache
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.EtecWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EtecWebAPI.props
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EtecWebAPI.props
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EtecWebAPI.props
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\scopedcss\bundle\EtecWebAPI.styles.css
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.csproj.Up2Date
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\refint\EtecWebAPI.dll
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.pdb
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\EtecWebAPI.genruntimeconfig.cache
+C:\Desenvovimento\PW2\src\EtecWebAPI\obj\Debug\net8.0\ref\EtecWebAPI.dll

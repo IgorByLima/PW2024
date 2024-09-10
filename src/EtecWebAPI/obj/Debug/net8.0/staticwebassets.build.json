@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8kDoC/TIMWTHnJhFot1ytcITWHq43xtZCbXABCXrKCY=",
+  "Source": "EtecWebAPI",
+  "BasePath": "_content/EtecWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
